@@ -18,8 +18,8 @@
   * Dispongo del título de C.F.P.G.M Sis. Microinformáticos y Redes.
   * Dispongo del título de C.F.P.G.S Des. Apli. Multiplataformas. (Actualmente cursando).
 
-  >* I have a grade in C.F.P.G.M Microcomputer Systems and Networks.
-  >* I have the title of C.F.G.S Cross-platform Application Development (Currently studying).
+  >* I have a degree in C.F.P.G.M Microcomputer Systems and Networks.
+  >* I have a degree in C.F.G.S Cross-platform Application Development (Currently studying).
 
 ## ¿Estás interesado en seguir cursando? || Are you interested in continuing studying?
 
@@ -30,7 +30,7 @@ Estoy interesando ahora mismo en continuar estudiando los sigueintes ciclos o es
   * Especialización en Grandes Bases de Datos e IA.
 
 >I am interested right now in continuing studying the following cycles or specialties:
->* Grade in Web Applications Development. (Next step).
+>* Degree in Web Applications Development. (Next step).
 >* Cybersecurity specialization.
 >* Big data and IA specialization.
 
