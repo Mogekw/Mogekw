@@ -23,10 +23,13 @@
 
 ## ¿Estás interesado en seguir cursando? || Are you interested in continuing studying?
 
+Estoy interesando ahora mismo en continuar estudiando los sigueintes ciclos o especialidades:
+
   * Título en Des. Apli. Web. (Siguiente paso).
   * Especialización en ciberseguridad.
   * Especialización en Grandes Bases de Datos e IA.
 
+>I am interested right now in continuing studying the following cycles or specialties:
 >* Grade in Web Applications Development. (Next step).
 >* Cybersecurity specialization.
 >* Big data and IA specialization.
