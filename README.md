@@ -33,5 +33,3 @@ Estoy interesando ahora mismo en continuar estudiando los sigueintes ciclos o es
 >* Degree in Web Applications Development. (Next step).
 >* Cybersecurity specialization.
 >* Big data and IA specialization.
-
-![image](https://i.4cdn.org/w/1693792218185314.jpg)
