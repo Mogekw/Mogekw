@@ -33,3 +33,5 @@ Estoy interesando ahora mismo en continuar estudiando los sigueintes ciclos o es
 >* Degree in Web Applications Development. (Next step).
 >* Cybersecurity specialization.
 >* Big data and IA specialization.
+
+![1699015665992212](https://github.com/Mogekw/Mogekw/assets/126154508/73dc5d0e-d273-4486-bb90-243d13442c3e)
